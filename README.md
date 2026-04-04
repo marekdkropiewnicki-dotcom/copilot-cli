@@ -138,6 +138,18 @@ Each time you submit a prompt to GitHub Copilot CLI, your monthly quota of premi
 
 For more information about how to use the GitHub Copilot CLI, see [our official documentation](https://docs.github.com/copilot/concepts/agents/about-copilot-cli).
 
+### Complete Feature Reference
+
+Looking for a comprehensive guide covering **everything** about Copilot CLI? Check out our [Everything Guide](./EVERYTHING.md) which includes:
+
+- All slash commands and their options
+- All configuration files and locations
+- All features and capabilities
+- All integrations and extension points
+- All authentication methods
+- All supported platforms
+- Complete troubleshooting guide
+
 ## 🔧 Configuring LSP Servers
 
 GitHub Copilot CLI supports Language Server Protocol (LSP) for enhanced code intelligence. This feature provides intelligent code features like go-to-definition, hover information, and diagnostics.
